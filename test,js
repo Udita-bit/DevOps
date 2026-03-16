@@ -1,2 +1,0 @@
-console.log('Getting Started');
-setTimeOut(()=>console.log('Waiting for 3 second'),3000);
